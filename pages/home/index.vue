@@ -4,7 +4,7 @@
     <div class="banner">
         <div class="container">
         <h1 class="logo-font">conduit</h1>
-        <p>A place to share your knowledge. --carson test 1</p>
+        <p>A place to share your knowledge. --lxcan 测试自动部署</p>
         </div>
     </div>
 
